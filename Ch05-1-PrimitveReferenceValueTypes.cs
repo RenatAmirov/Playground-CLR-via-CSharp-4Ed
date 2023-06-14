@@ -19,12 +19,12 @@ public static class Program {
         //Rnx_P146_P1();
         //PrimitiveDemo();
         //BoxingDemo();
-        //ReferenceVsValue.Go();
+        ReferenceVsValue.Go();
         //Boxing.Go();
         //BoxingForInterfaceMethod.Go();
         //MutateViaInterface.Go();
         //DynamicDemo.Go();
-        ValueTypeDemo();
+        //ValueTypeDemo();
      }
 
     #region Rnx_P152()
